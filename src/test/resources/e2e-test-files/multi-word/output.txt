@@ -1,0 +1,4 @@
+Word count = 3
+Average word length = 4.000
+Number of words of length 4 is 3
+The most frequently occurring word length is 3, for word lengths of 4

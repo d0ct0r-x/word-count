@@ -1,0 +1,2 @@
+Word count = 0
+Average word length = 0.000
